@@ -1,0 +1,75 @@
+.container{
+    height: 400px;
+    width: 400px;
+    margin: 10px;
+    margin: 0 auto;
+    padding: 10px;
+    background: #2A7B9B;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+    margin-top: 70px;
+background:#020024;
+background: #2c4752;
+background:linear-gradient(90deg, rgba(44, 71, 82, 1) 0%, rgba(87, 199, 133, 1) 50%, rgba(237, 221, 83, 1) 100%);
+}
+
+.college-portal{
+    display: flex;
+    justify-content: center;
+    background: linear-gradient(90deg, rgba(42, 123, 155, 1) 0%, rgba(87, 199, 133, 1) 50%, rgba(237, 221, 83, 1) 100%);
+}
+.college-portal a{
+    text-decoration: unset;
+    padding-right: 10px;
+    color: #2A7B9B;
+    font-weight: 500px;
+    margin:20px 10px 20px 0;
+
+.college-portal a{
+    height: 5px;
+    width: 3px;
+}
+}
+.logo-img img{
+    width: px;
+}
+.logo-img{
+    flex-direction: row;
+    display: flex;
+    justify-content: left;
+}
+form h2{
+    text-align: center;
+}
+h1{
+    text-align: center;
+
+}
+form{
+    font-size: 15px;
+}
+label{
+    margin-top: 15px;
+}
+inner-div{
+    display: flex; 
+    flex-direction: column;
+    padding: 10px;
+}
+input{
+    margin-top: 6px;
+    height: 25px;
+    border-radius: 3px;
+    border-color: transparent;
+}
+button{
+    background-color: blueviolet;
+    color:white;
+    padding: 5px;
+    width: 20;
+    border-radius: 2px;
+    border:unset;
+}
